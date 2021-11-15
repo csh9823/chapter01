@@ -15,9 +15,15 @@ public class Ex08 {
 		if(point==0){//false일때만
 			System.out.println("0");
 		}
+		
 		else if(point%2==0) {
 			System.out.println("짝수");
 		}
+		
+		else if(point<0) {
+			System.out.println("음수");
+		}
+		
 		else {
 			System.out.println("홀수");
 		}
