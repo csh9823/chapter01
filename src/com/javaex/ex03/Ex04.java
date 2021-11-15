@@ -22,7 +22,7 @@ public class Ex04 {
 			int pay = (b*8)+(over*12000);
 			System.out.println("임금은 "+pay+"원 입니다.");
 		}
-
+		sc.close();
 	}
 
 }
