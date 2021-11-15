@@ -21,7 +21,7 @@ public class Ex03 {
 		else {
 			System.out.println("0");
 		}
-		System.out.println("프로그램 종료"); //공통 부분
+		
 		sc.close();
 	}
 
