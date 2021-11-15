@@ -25,8 +25,9 @@ public static void main(String[] args) {
 		double d = sc.nextDouble();
 		
 		System.out.println("당신의 이름은 "+name+" 나이는 "+i+ " 키는 "+d+" 입니다.");
+		System.out.println("테스트용");
 		sc.close();
-		//test
+		
 	}
 
 }

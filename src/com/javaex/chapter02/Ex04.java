@@ -21,7 +21,6 @@ public class Ex04 {
 		// next 안 쓸경우 숫자 값 밑에 sc.nextLine(); 엔터를 소비
 		
 		System.out.println("당신의 이름은 "+name+" 나이는 "+i+ "입니다.");
-		System.out.println("z");
 		sc.close();
 	}
 
