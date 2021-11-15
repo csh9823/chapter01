@@ -10,14 +10,14 @@ public class Ex02 {
 		System.out.print("점수: ");
 		int num = sc.nextInt();
 		
-		if(num>=60) {
+		if(num>=60) {//true일때만
 			System.out.println("합격입니다."); 
 		}
-		else {
+		else {//false일때만
 			System.out.println("불합격입니다.");
 		}
 		
-		
+		System.out.println("프로그램 종료"); //공통 부분
 		sc.close();
 	}
 
