@@ -38,6 +38,7 @@ public class Ex09 {
 		System.out.println( !(a>b) ); //  !F --> T
 		System.out.println( !(a<b) ); // !T --> F
 
+		//System.out.println("테스트용3");
 	}
 
 }
