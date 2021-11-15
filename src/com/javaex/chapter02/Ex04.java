@@ -22,7 +22,6 @@ public class Ex04 {
 		
 		System.out.println("당신의 이름은 "+name+" 나이는 "+i+ "입니다.");
 		System.out.println("z");
-		
 		sc.close();
 	}
 
