@@ -46,7 +46,6 @@ public class Ex07 {
 			else {
 				System.out.println("F등급");
 			}
-			
 			sc.close();
 	}
 }
