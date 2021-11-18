@@ -1,0 +1,26 @@
+package com.javaex.ex04;
+
+import java.util.Scanner;
+
+public class Ex13 {
+
+	public static void main(String[] args) {
+		
+		int num;
+		
+		Scanner sc = new Scanner(System.in);
+		
+		System.out.println("숫자를 입력하세요."+"0이면 종료");
+		do {
+			num = sc.nextInt();
+			System.out.println("합계 " + num);
+			
+		}while(num!=0); //0이 아니면 계속 계산
+	
+		System.out.println("종료");
+		
+		sc.close();
+
+	}
+
+}

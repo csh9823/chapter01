@@ -8,8 +8,8 @@ public class Ex09 {
 		
 		while(true) {
 			
-			i=i+1; //i++
 			
+			i=i+1;
 			
 			if(i%6==0 && i%14==0) { // 6의 배수 이면서 14의 배수가 입니까? yes--> 숫자찍고 끝(반복문 탈출)
 				System.out.println(i);

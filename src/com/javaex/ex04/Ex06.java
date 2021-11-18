@@ -11,8 +11,9 @@ public class Ex06 {
 			for(i =1; i<10; i++) {
 				
 				System.out.println(dan+"*"+i+"="+dan*i);	
+				System.out.print("    ");
 			}
-			
+			System.out.println();
 		}
     }
 }
